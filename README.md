@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotharii
-- 👀 I’m interested in coding javascript
-- 🌱 I’m currently learning react
+- 👀 I’m interested in coding javascript, react(even with redux) and backend using postgresql. 
+- 🌱 I’m currently learning UIpath
 - 💞️ I’m looking to collaborate on projects including core javascript and react
 - 📫 naman.kothari15@nmims.edu.in
 
