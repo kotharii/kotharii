@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning RabbitMq
 - 💞️ I’m looking to collaborate on projects including core javascript and react
 - Feel free to get in touch with me 😊
-- 📫 naman.kothari15@nmims.edu.in
+- 📫 kotharii.naman@gmail.com
 
 <!---
 kotharii/kotharii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
