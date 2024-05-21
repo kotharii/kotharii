@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kotharii
 - 👀 I’m interested in coding new applications using javascript, react, mongodb, nodejs, postgresSQL, etc. 
 - 🌱 I’m currently learning RabbitMq
-- 💞️ I’m looking to collaborate on projects including core javascript and react
+- 🤝 I’m looking to collaborate on projects including core javascript and react
 - Feel free to get in touch with me 😊
 - 📫 kotharii.naman@gmail.com
 
